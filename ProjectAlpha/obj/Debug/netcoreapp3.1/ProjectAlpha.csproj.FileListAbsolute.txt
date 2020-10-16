@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\bin\Debug\netcoreapp3.1\ProjectAlpha.exe
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\bin\Debug\netcoreapp3.1\ProjectAlpha.deps.json
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\bin\Debug\netcoreapp3.1\ProjectAlpha.runtimeconfig.json
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\bin\Debug\netcoreapp3.1\ProjectAlpha.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\bin\Debug\netcoreapp3.1\ProjectAlpha.dll
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\bin\Debug\netcoreapp3.1\ProjectAlpha.pdb
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp3.1\ProjectAlpha.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp3.1\ProjectAlpha.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp3.1\ProjectAlpha.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp3.1\ProjectAlpha.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp3.1\ProjectAlpha.dll
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp3.1\ProjectAlpha.pdb
+C:\Users\Administrator\source\repos\ProjectAlpha\ProjectAlpha\obj\Debug\netcoreapp3.1\ProjectAlpha.genruntimeconfig.cache
